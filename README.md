@@ -304,5 +304,16 @@ test_week2.py::TestStudentRecordManager::test_student_validation PASSED         
 
 ---
 
-*Authored as part of the Intermediate Python Portfolio Series.*
+## Academic Context & Author Notes
+
+This project is **Week 2** of a structured 4-week Python and Software Engineering learning program:
+
+- **Week 1:** Python Fundamentals, Data Structures & Algorithmic Foundations
+- **Week 2:** Object-Oriented Programming (OOP), Modules, Exception Handling & File Management *(This Project)*
+- **Week 3:** **Git, GitHub, Version Control, Collaboration & Professional Engineering Practices** 
+- **Week 4:** Capstone Project — Building a Python-based CLI Expense Tracker with JSON Persistence, Testing & Documentation
+
+**Author:** B.Tech Computer Science Engineering Student, specializing in Robotics & Artificial Intelligence  
+**Academic Focus:** Software Development, Robotics, Artificial Intelligence & Cybersecurity  
+**License:** MIT License — Open for academic learning, reference and collaboration.
 
