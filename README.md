@@ -69,8 +69,6 @@ intermediate-python-practice/
 └── README.md                               # Project documentation & portfolio guide
 ```
 
----
-
 ## 3. System Design & Class Hierarchy
 
 ```mermaid
