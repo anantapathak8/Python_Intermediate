@@ -1,0 +1,85 @@
+{
+    "version": "1.0",
+    "last_updated": "2026-11-09T10:00:00+00:00",
+    "count": 5,
+    "students": [
+        {
+            "type": "undergraduate",
+            "student_id": "STU101",
+            "name": "Alice Johnson",
+            "email": "alice.johnson@apex.edu",
+            "enrollment_year": 2023,
+            "grades": {
+                "CS101": 95.0,
+                "MATH201": 91.5,
+                "ENG102": 88.0
+            },
+            "average": 91.5,
+            "letter_grade": "A",
+            "status": "Good Standing"
+        },
+        {
+            "type": "undergraduate",
+            "student_id": "STU102",
+            "name": "Bob Smith",
+            "email": "bob.smith@apex.edu",
+            "enrollment_year": 2024,
+            "grades": {
+                "CS101": 82.0,
+                "MATH201": 74.5,
+                "PHYS101": 80.0
+            },
+            "average": 78.83,
+            "letter_grade": "C",
+            "status": "Good Standing"
+        },
+        {
+            "type": "undergraduate",
+            "student_id": "STU103",
+            "name": "Catherine Diaz",
+            "email": "catherine.diaz@apex.edu",
+            "enrollment_year": 2023,
+            "grades": {
+                "CS101": 55.0,
+                "MATH201": 58.0
+            },
+            "average": 56.5,
+            "letter_grade": "F",
+            "status": "Academic Probation"
+        },
+        {
+            "type": "graduate",
+            "student_id": "GRAD201",
+            "name": "David Kim",
+            "email": "david.kim@apex.edu",
+            "enrollment_year": 2022,
+            "thesis_title": "Deep Learning for Autonomous Robotics Navigation",
+            "advisor": "Dr. Eleanor Vance",
+            "grades": {
+                "CS701": 94.0,
+                "CS705": 92.5,
+                "ROB801": 96.0
+            },
+            "average": 94.17,
+            "letter_grade": "A",
+            "status": "Good Standing (Graduate Research)"
+        },
+        {
+            "type": "graduate",
+            "student_id": "GRAD202",
+            "name": "Elena Rostova",
+            "email": "elena.rostova@apex.edu",
+            "enrollment_year": 2023,
+            "thesis_title": "Quantum Error Correction Algorithms",
+            "advisor": "Dr. Alan Turing",
+            "grades": {
+                "PHYS801": 84.0,
+                "CS810": 81.5
+            },
+            "average": 82.75,
+            "letter_grade": "B",
+            "status": "Good Standing (Graduate Research)"
+        }
+    ]
+}
+

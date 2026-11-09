@@ -1,0 +1,5 @@
+# Project Dependencies for Intermediate Python Practice - Week 2
+# The core library is implemented purely with Python Standard Library.
+# Test runner:
+pytest>=7.4.0
+
